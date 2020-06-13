@@ -117,7 +117,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - _Commit_ suas mudanças: `git commit -m 'feat: My new feature'`
 - Faça um _push_ da sua branch: `git push origin my-feature`
 
-## :mortar_board:Omnistack Week
+## :mortar_board: Omnistack Week
 
 > As aulas da semana **Omnistack** foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)**.
 
