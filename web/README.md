@@ -35,7 +35,7 @@
 
 <a id="sobre"></a>
 
-## :interrobang:   Sobre
+## :interrobang:Sobre
 
 A aplicação web <strong>Be the hero</strong> 
 
@@ -43,7 +43,7 @@ O site onde as ONGs podem divulgar seus varios casos, para que um herói possa e
 
 <a id="tecnologias-utilizadas"></a>
 
-## :diamonds:   Tecnologias utilizadas
+## :diamonds:Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -51,14 +51,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="aplicacao"></a>
 
-## :sparkles:   A Aplicação
-
-
-<p align="center">
+## :sparkles:A Aplicação
 
 #### <img alt="bethehero" src="../assets/mobile_logo.png" height="10"> Aplicação Web:
-
-</p>
 
 <h1 align="center">
     <img alt="Web" src="../assets/web.gif" width="900px">
@@ -72,10 +67,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </h1>
 
 
-
 <a id="como-usar"></a>
 
-## :octocat:   Clone este repositório
+## :octocat:Clone este repositório
 
 1. Faça um clone :
 
@@ -92,7 +86,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```
 <a id="como-contribuir"></a>
 
-## :dart:   Como contribuir
+## :dart:Como contribuir
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`
