@@ -25,7 +25,7 @@
 </p>
 
 
-## <img alt="bethehero" src="../assets/icon.png" height="15"> Be The Hero
+## <img alt="bethehero" src="../assets/icon.png" height="25"> Be The Hero
 
 - [Sobre](#sobre)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
