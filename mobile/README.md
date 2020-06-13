@@ -35,7 +35,7 @@
 
 <a id="sobre"></a>
 
-## :interrobang: «» Sobre
+## :interrobang:   Sobre
 
 A aplicação mobile <strong>Be the hero</strong> 
 
@@ -43,7 +43,7 @@ O aplicativo onde o usuario pode encontrar varios casos de diferentes ongs sendo
 
 <a id="tecnologias-utilizadas"></a>
 
-## :diamonds: «» Tecnologias utilizadas
+## :diamonds:   Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -51,7 +51,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="aplicacao"></a>
 
-## :sparkles: «» A Aplicação
+## :sparkles:   A Aplicação
 
 <center>
 
@@ -71,7 +71,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </center>
 <a id="como-usar"></a>
 
-## :octocat: «» Clone este repositório
+## :octocat:   Clone este repositório
 
 1. Faça um clone :
 
@@ -89,7 +89,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="como-contribuir"></a>
 
-## :dart: «» Como contribuir
+## :dart:   Como contribuir
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`
