@@ -35,7 +35,7 @@
 
 <a id="sobre"></a>
 
-## :interrobang:Sobre
+## :interrobang:  Sobre
 
 O backend da aplicação <strong>Be the hero</strong>
 
@@ -43,7 +43,7 @@ O lado com todas as regras de negócio da palicação, uma _API Rest_, onde as r
 
 <a id="tecnologias-utilizadas"></a>
 
-## :diamonds:Tecnologias utilizadas
+## :diamonds:  Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -53,7 +53,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="rotas"></a>
 
-## :space_invader:Rotas
+## :space_invader:  Rotas
 
 > #### $GET ᚛ http://aplication_url/ongs
 > - rota usada para listar todas as ongs cadastradas na aplicação
@@ -132,7 +132,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="como-contribuir"></a>
 
-## :dart:Como contribuir
+## :dart: Como contribuir
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`

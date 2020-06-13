@@ -41,7 +41,7 @@
 
 <a id="sobre"></a>
 
-## :interrobang:Sobre
+## :interrobang:  Sobre
 
 O <strong>Be the hero</strong> é uma aplicação Web e Mobile para ajudar as pessoas a salvarem o dia!
 
@@ -49,7 +49,7 @@ Essa aplicação foi construída na semana <strong>Omnistack</strong>  disponibi
 
 <a id="tecnologias-utilizadas"></a>
 
-## :diamonds:Tecnologias utilizadas
+## :diamonds:  Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -59,9 +59,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="aplicacao"></a>
 
-## :sparkles:A Aplicação
+## :sparkles:  A Aplicação
 
-#### :computer:Aplicação Web:
+#### :computer:  Aplicação Web:
 
 <h1 align="center">
     <img alt="Web" src="assets/web.gif" width="900px">
@@ -69,7 +69,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <br>
 
-#### :iphone:Aplicação Mobile:
+#### :iphone:  Aplicação Mobile:
 
 <h1 align="center">
     <img alt="Mobile" src="assets/mobile.gif" width="400px">
@@ -110,7 +110,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="como-contribuir"></a>
 
-## :dart:Como contribuir
+## :dart: Como contribuir
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`
