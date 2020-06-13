@@ -33,25 +33,25 @@
 - [Faça um clone e use](#como-usar)
 - [Como contribuir](#como-contribuir)
 
+<a id="sobre"></a>
 
 ## :interrobang: Sobre
-<a id="sobre"></a>
 
 A aplicação web <strong>Be the hero</strong> 
 
 O site onde as ONGs podem divulgar seus varios casos, para que um herói possa encontra-lo
 
+<a id="tecnologias-utilizadas"></a>
 
 ## :flags: Tecnologias utilizadas
-<a id="tecnologias-utilizadas"></a>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React.js](https://reactjs.org/)
 
+<a id="aplicacao"></a>
 
 ## :sparkles: A Aplicação
-<a id="aplicacao"></a>
 
 <center>
 
@@ -70,9 +70,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 </center>
+<a id="como-usar"></a>
 
 ## :octocat: Clone este repositório
-<a id="como-usar"></a>
 
 1. Faça um clone :
 
@@ -87,9 +87,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   $ npm install
   $ npm run start
 ```
+<a id="como-contribuir"></a>
 
 ## :dart: Como contribuir
-<a id="como-contribuir"></a>
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`

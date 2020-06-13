@@ -33,9 +33,9 @@
 - [Faça um clone e use](#como-usar)
 - [Como contribuir](#como-contribuir)
 
+<a id="sobre"></a>
 
 ## :interrobang: Sobre
-<a id="sobre"></a>
 
 O backend da aplicação <strong>Be the hero</strong>
 
@@ -51,9 +51,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Sqlite](https://www.sqlite.org/index.html)
 
 
+<a id="rotas"></a>
 
 ## :space_invader: Rotas
-<a id="rotas"></a>
 
 > #### $GET ᚛ http://aplication_url/ongs
 > - rota usada para listar todas as ongs cadastradas na aplicação
@@ -100,9 +100,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 >     - **Enviados pelo cabeçalho "_authorization_"**:
 >        - ong_id → _identificador da ong que está cadastrando o caso_
 
+<a id="como-usar"></a>
 
 ## :octocat: Clone este repositório
-<a id="como-usar"></a>
 
 1. Faça um clone :
 
@@ -118,9 +118,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   $ npm run start
 ```
 
+<a id="como-contribuir"></a>
 
 ## :dart: Como contribuir
-<a id="como-contribuir"></a>
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`

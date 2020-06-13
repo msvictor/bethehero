@@ -33,25 +33,25 @@
 - [Faça um clone e use](#como-usar)
 - [Como contribuir](#como-contribuir)
 
+<a id="sobre"></a>
 
 ## :interrobang: Sobre
-<a id="sobre"></a>
 
 A aplicação mobile <strong>Be the hero</strong> 
 
 O aplicativo onde o usuario pode encontrar varios casos de diferentes ongs sendo divulgados, e onde ele pode torna-se o herói de alguns deles 
 
+<a id="tecnologias-utilizadas"></a>
 
 ## :flags: Tecnologias utilizadas
-<a id="tecnologias-utilizadas"></a>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React Native com Expo](https://expo.io/)
 
+<a id="aplicacao"></a>
 
 ## :sparkles: A Aplicação
-<a id="aplicacao"></a>
 
 <center>
 
@@ -67,9 +67,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 </center>
+<a id="como-usar"></a>
 
 ## :octocat: Clone este repositório
-<a id="como-usar"></a>
 
 1. Faça um clone :
 
@@ -85,9 +85,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
   $ npm run start
 ```
 
+<a id="como-contribuir"></a>
 
 ## :dart: Como contribuir
-<a id="como-contribuir"></a>
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`
