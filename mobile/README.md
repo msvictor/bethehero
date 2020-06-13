@@ -35,7 +35,7 @@
 
 <a id="sobre"></a>
 
-## :interrobang: Sobre
+## :interrobang: «» Sobre
 
 A aplicação mobile <strong>Be the hero</strong> 
 
@@ -43,7 +43,7 @@ O aplicativo onde o usuario pode encontrar varios casos de diferentes ongs sendo
 
 <a id="tecnologias-utilizadas"></a>
 
-## :flags: Tecnologias utilizadas
+## :diamonds: «» Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -51,25 +51,27 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="aplicacao"></a>
 
-## :sparkles: A Aplicação
+## :sparkles: «» A Aplicação
 
 <center>
 
+<p align="center">
 
 #### <img alt="bethehero" src="../assets/mobile_logo.png" height="10"> Aplicação Mobile:
 
+</p>
 <h1 align="center">
-    <img alt="Mobile" src="../assets/mobile.gif" height="500px">
-    <img alt="splash screnn" src="../assets/mobile_splash.png" height="500px"> 
-    <img alt="home screnn" src="../assets/mobile_home.png" height="500px">
-    <img alt="case screnn" src="../assets/mobile_case_detail.png" height="500px">
+    <img alt="Mobile" src="../assets/mobile.gif" width="20%">
+    <img alt="splash screnn" src="../assets/mobile_splash.png" width="20%"> 
+    <img alt="home screnn" src="../assets/mobile_home.png" width="20%">
+    <img alt="case screnn" src="../assets/mobile_case_detail.png" width="20%">
 </h1>
 
 
 </center>
 <a id="como-usar"></a>
 
-## :octocat: Clone este repositório
+## :octocat: «» Clone este repositório
 
 1. Faça um clone :
 
@@ -87,7 +89,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <a id="como-contribuir"></a>
 
-## :dart: Como contribuir
+## :dart: «» Como contribuir
 
 - Faça um _Fork_ deste repositório;
 - Crie uma _branch_ com a sua feature: `git checkout -b my-feature`
