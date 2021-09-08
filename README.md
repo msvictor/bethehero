@@ -34,8 +34,8 @@
 ## <img alt="bethehero" src="assets/icon.png" height="22"> Be The Hero
 
 - [Sobre](#sobre)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [A aplicação](#aplicacao)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Faça um clone e use](#como-usar)
 - [Como contribuir](#como-contribuir)
 
@@ -46,16 +46,6 @@
 O <strong>Be the hero</strong> é uma aplicação Web e Mobile para ajudar as pessoas a salvarem o dia!
 
 Essa aplicação foi construída na semana <strong>Omnistack</strong>  disponibilizada pela [Rocketseat](https://rocketseat.com.br/). Essa aplicação vem com a ideia de criar um ambiente onde ONGs possam comparlinhas seus mais variados casos para que um herói possa vir salvar o dia.
-
-<a id="tecnologias-utilizadas"></a>
-
-## :diamonds:  Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- [Node.js](https://nodejs.org/en/)
-- [React.js](https://reactjs.org/)
-- [React Native com Expo](https://expo.io/)
 
 <a id="aplicacao"></a>
 
@@ -75,6 +65,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     <img alt="Mobile" src="assets/mobile.gif" width="400px">
 </h1>
 
+
+<a id="tecnologias-utilizadas"></a>
+
+## :diamonds:  Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React.js](https://reactjs.org/)
+- [React Native com Expo](https://expo.io/)
 
 <a id="como-usar"></a>
 
@@ -122,3 +122,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 > As aulas da semana **Omnistack** foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)**.
 
 
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
